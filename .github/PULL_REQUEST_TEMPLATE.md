@@ -2,7 +2,7 @@
 
 <!-- チケットの番号を追加(RIBON-チケット番号) -->
 
-- [該当チケット](https://ei-shin.atlassian.net/browse/RIBON-チケット番号)
+- [該当チケット](https://nikawa2161t.atlassian.net/browse/RIBON-番号)
 
 ## やったこと
 
